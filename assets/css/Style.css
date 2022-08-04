@@ -2257,18 +2257,19 @@ a.button-block {
 
 
 .searchbar input[type="text"] {
-        /*margin-left: 20px;*/
+    /*margin-left: 20px;*/
     /*padding-left: 18px;*/
     box-sizing: border-box;
     width: 100%;
     height: 40px;
-    border-bottom: 3px solid var(--c-text);
+    border: 3px solid var(--c-text);
     font-family: var(--font-family-base) !important;
     color: var(--c-text);
     font-size: var(--font-size-small);
     background-color: transparent;
     text-align: center;
     padding: var(--spacing-sm) var(--spacing-xs) calc(var(--spacing-sm) - 0.3125rem);
+    border-radius: 999px;
 }
 
 @media(max-width: 500px) {
