@@ -2586,10 +2586,10 @@ a.button-block {
     overflow: hidden;
     margin-bottom: 5px;
     font-weight: 400;
-    font-size: calc(18px + (30 - 18) * ( 100vw - 300px) / ( 1500 - 300));
+    font-size: calc(18px + (25 - 18) * ( 100vw - 300px) / ( 1500 - 300));
     line-height: 1.2;
     letter-spacing: var(--letter-spacing-tight);
-	text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 .tags {
