@@ -2778,13 +2778,12 @@ position: absolute;
 .content a {
     color: var(--c-text-link);
     text-decoration: none;
-    /*background-image: linear-gradient(0deg,var(--lime) 40%,transparent 0);*/
     font-weight: var(--font-weight-semibold);
+    font-family: var(--font-family-base);
 }
 
 .content a:hover {
     text-decoration: none;
-    background-color: var(--lime);
 }
 
 
