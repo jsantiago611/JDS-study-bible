@@ -390,299 +390,7 @@ layout: Stylesheet
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'GT-Alpina-VAR';
-  src: url('../fonts/GT-Alpina-VAR.woff2') format('woff2');
-  display: swap;
-  font-weight: 400;
-  font-style: normal;
-}
 
-@font-face {
-  font-family: 'GT-Condensed';
-  src: url('../fonts/GT-Alpina-Condensed-Thin.woff') format('woff');
-  display: swap;
-  font-weight: 300;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'GT-std';
-  src: url('../fonts/GT-Alpina-Standard-Light.woff') format('woff');
-  display: swap;
-  font-weight: 300;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'GT-std';
-  src: url('../fonts/GT-Alpina-Standard-Light-Italic.woff2') format('woff2');
-  display: swap;
-  font-weight: 300;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'GT-std';
-  src: url('../fonts/GT-Alpina-Standard-Thin.woff') format('woff');
-  display: swap;
-  font-weight: 100;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Roobert';
-  src: url('../fonts/Roobert-Light.otf') format('opentype');
-  display: swap;
-  font-weight: 300;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Roobert';
-  src: url('../fonts/Roobert-Regular.otf') format('opentype');
-  display: swap;
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Roobert';
-  src: url('../fonts/Roobert-RegularItalic.otf') format('opentype');
-  display: swap;
-  font-weight: 400;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Roobert';
-  src: url('../fonts/Roobert-SemiBold.otf') format('opentype');
-  display: swap;
-  font-weight: 700;
-  font-style: normal;
-}
-
-@font-face {
-   font-family: 'pitch sans';
-   src: url('../fonts/PitchSansWeb-MediumItalic.woff2') format('woff2');
-   font-weight: 500;
-   font-style: italic;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'pitch sans';
-   src: url('../fonts/pitch-sans-regular.woff2') format('woff2');
-   font-weight: 400;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'pitch sans';
-   src: url('../fonts/PitchSansWeb-Medium.woff2') format('woff2');
-   font-weight: 500;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'pitch sans';
-   src: url('../fonts/PitchSans-Bold.woff2') format('woff2');
-   font-weight: 700;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'pitch arrow';
-   src: url('../fonts/order_link_arrow.woff') format('woff');
-   font-style: normal;
-   font-display: swap;
-}
-
-
-@font-face {
-   font-family: 'untitled';
-   src: url('../fonts/untitled-sans-web-regular.woff2') format('woff2');
-   font-weight: 400;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'untitled';
-   src: url('../fonts/UntitledSansWeb-Medium.woff2') format('woff2');
-   font-weight: 500;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'untitled';
-   src: url('../fonts/UntitledSansWeb-Bold.woff2') format('woff2');
-   font-weight: 700;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Copernicus';
-   src: url('../fonts/GalaxieCopernicus-Book.woff2') format('woff2');
-   font-weight: 400;
-   font-style: normal;
-   font-display: swap;
-
-}
-
-@font-face {
-   font-family: 'Copernicus';
-   src: url('../fonts/GalaxieCopernicus-BookItalic.woff2') format('woff2');
-   font-weight: 400;
-   font-style: italic;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Bradford';
-   src: url('../fonts/BradfordLL-Light.woff') format('woff');
-   font-weight: 300;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Bradford';
-   src: url('../fonts/BradfordLL-LightItalic.woff2') format('woff2');
-   font-weight: 300;
-   font-style: italic;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Bradford';
-   src: url('../fonts/BradfordLLWeb-Regular.woff2') format('woff2');
-   font-weight: 400;
-   font-style: normal;
-   font-display: swap;
-}
-
-
-@font-face {
-   font-family: 'Bradford';
-   src: url('../fonts/BradfordLLWeb-Book (1).woff2') format('woff2');
-   font-weight: 500;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Editor';
-   src: url('../fonts/Editor-Regular.woff2') format('woff2');
-   font-weight: 400;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Editor';
-   src: url('../fonts/Editor-Italic.otf') format('opentype');
-   font-weight: 400;
-   font-style: italic;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Editor';
-   src: url('../fonts/editor-bold-webfont.woff2') format('woff2');
-   font-weight: 700;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'GTAmericaMono';
-   src: url('../fonts/GTAmericaMono-Light.woff2') format('woff2');
-   font-weight: 300;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'GTAmericaMono';
-   src: url('../fonts/GTAmericaMono-Bold.woff') format('woff');
-   font-weight: bold;
-   font-style: normal;
-   font-display: swap;
-}
-
-
-
-
-
-@font-face {
-   font-family: 'Heldane';
-   src: url('../fonts/heldane-display-regular.woff2') format('woff2');
-   font-weight: 400;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Heldane';
-   src: url('../fonts/HeldaneTextWeb-RegularItalic.woff2') format('woff2');
-   font-weight: 400;
-   font-style: italic;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Heldane';
-   src: url('../fonts/heldane-display-medium.woff2') format('woff2');
-   font-weight: 500;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Heldane';
-   src: url('../fonts/heldane-display-bold.woff2') format('woff2');
-   font-weight: 700;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Favorit';
-   src: url('../fonts/Favorit-Regular.woff2') format('woff2');
-   font-weight: 400;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Favorit';
-   src: url('../fonts/FavoritProMedium.woff2') format('woff2');
-   font-weight: 500;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'Favorit';
-   src: url('../fonts/Favorit-Bold.woff2') format('woff2');
-   font-weight: 700;
-   font-style: normal;
-   font-display: swap;
-}
-
-@font-face {
-   font-family: 'FavoritMono';
-   src: url('../fonts/FavoritMonoStd-Regular.woff2') format('woff2');
-   font-weight: 400;
-   font-style: normal;
-   font-display: swap;
-} 
 
 /*light/dark mode colors*/
 
@@ -791,6 +499,16 @@ html[data-theme="dark"] {
 /* end of experiment*/
 
 :root {
+	
+  /*Spacing for buttons, etc*/
+    --spacing-xxs: 0.3125rem;
+    --spacing-xs: 0.9375rem;
+    --spacing-base: 1.25rem;
+    --spacing-sm: 1.875rem;
+    --spacing-md: 2.8125rem;
+    --spacing-md-lg: 3.75rem;
+    --spacing-lg: 5rem;
+    --spacing-xl: 7.5rem;
 
   /* Layouts */
   --measure: 33em;
@@ -2540,20 +2258,17 @@ a.button-block {
 
 .searchbar input[type="text"] {
         /*margin-left: 20px;*/
-    padding-left: 18px;
+    /*padding-left: 18px;*/
     box-sizing: border-box;
     width: 100%;
     height: 40px;
-    border-bottom: 1px solid var(--c-border);
-    border-top: transparent;
-	border-right: transparent;
-	border-left: transparent;
+    border-bottom: 3px solid var(--c-text);
     font-family: var(--font-family-base) !important;
     color: var(--c-text);
     font-size: var(--font-size-small);
     background-color: transparent;
     text-align: center;
-	
+    padding: var(--spacing-sm) var(--spacing-xs) calc(var(--spacing-sm) - 0.3125rem);
 }
 
 @media(max-width: 500px) {
