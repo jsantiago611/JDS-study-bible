@@ -1845,23 +1845,24 @@ border-bottom: 1px solid var(--c-card-border);
     transition: transform .5s ease 0s,visibility 0s linear .5s; */
 	
     #theme-toggle {
-    opacity: 1;
+        opacity: 1;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
     z-index: 75;
     transition: transform .5s ease 0s,visibility 0s linear .5s;
-    border: 1px solid var(--c-border);
+    border: 3px solid var(--c-text);
     margin-top: 0px;
     margin-left: 5px;
     font-weight: 400;
     font-size: var(--font-size-small);
     font-family: var(--font-family-serif);
-    color: var(--c-text);
+    color: var(--c-bg);
     margin-bottom: 0;
     padding: 7px 10px;
     border-radius: 2000px;
+    background-color: var(--c-text);
 }
 
 #theme-toggle-img {
@@ -2269,7 +2270,7 @@ a.button-block {
     background-color: transparent;
     text-align: center;
     padding: var(--spacing-sm) var(--spacing-xs) calc(var(--spacing-sm) - 0.3125rem);
-    border-radius: 999px;
+    border-radius: 1.25rem;
 }
 
 @media(max-width: 500px) {
