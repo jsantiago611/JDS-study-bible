@@ -3147,9 +3147,9 @@ label.srs-toggle {
 .context-menu__items {
   list-style: none;
   margin: 0;
-  padding-left: 6px;
-  padding-right: 6px;
+  padding: 10px;
   background-color: var(--c-btn-alt-bg);
+  border-radius: 10px;
 }
 
 .context-menu__item {
