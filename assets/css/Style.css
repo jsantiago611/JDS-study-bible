@@ -655,7 +655,7 @@ main {
 	font-feature-settings: pnum;
 	font-family: var(--font-family-serif);
 	font-weight: 500;
-	line-height: var(--line-height-base);
+	line-height: var(--line-height-tight);
 	margin: 80px 0 8px;
 	color: var(--c-text-strong);
   	/* border-bottom: 1px solid var(--c-border) !important;*/
