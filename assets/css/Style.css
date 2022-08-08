@@ -30,6 +30,14 @@ layout: Stylesheet
   src: url('../fonts/Rando-Regular.woff') format('woff');
 }
 @font-face {
+  font-family: 'Rando';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  font-named-instance: 'Regular';
+  src: url('../fonts/Rando-Bold.ttf') format('opentype');
+}
+@font-face {
   font-family: 'RandoDisplay';
   font-display: swap;
   font-style: normal;
