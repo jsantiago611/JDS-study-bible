@@ -558,7 +558,7 @@ html[data-theme="dark"] {
   --font-family-serif: "Labil", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;  
     --font-family-mono: "Labil", 'SFMono-Regular', 'Menlo', monospace;
     --font-family-sans: "Rando", Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-    --header: "Labil", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif; 
+    --header:  "Rando", Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
   --font-family-base: var(--font-family-serif);
 
@@ -1870,7 +1870,7 @@ border-bottom: 1px solid var(--c-card-border);
     margin-bottom: 0;
     padding: 7px 10px;
     border-radius: 2000px;
-    background-color: var(--c-text);
+    background-color: var(--c-accent);
 }
 
 #theme-toggle-img {
