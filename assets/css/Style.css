@@ -1860,7 +1860,7 @@ border-bottom: 1px solid var(--c-card-border);
     cursor: pointer;
     z-index: 75;
     transition: transform .5s ease 0s,visibility 0s linear .5s;
-    border: 3px solid var(--c-text);
+    border: 3px solid var(--c-accent);
     margin-top: 0px;
     margin-left: 5px;
     font-weight: 400;
