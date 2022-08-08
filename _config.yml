@@ -28,7 +28,7 @@ url: "https://jonsdiscipleshiplab.netlify.app/" # the base hostname & protocol f
 # your social media links etc
 #######################################################################
 
-heading: Bible Notes
+heading: Study Bible
 subheading: # subheading won't work without a tagline,
           # tagline is mandatory if you want the
           # suheading to appear. The reason is
@@ -48,14 +48,14 @@ tagline: # subheading won't work without a tagline,
   name:
 copyright:
   year: 2022
-  msg: Jonathan Santiago # This is a mandatory attribute for copyright to be displayed
+  msg: Jonathan Derek # This is a mandatory attribute for copyright to be displayed
 
 user:
   display: false # setting it to false will remove the header image and bio
                 # Note that user settings come wholesale, it does not have the
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
-  name: Jonathan S
+  name: Jonathan D
   bio: Christian writer building a digital garden featuring loosely opinionated notes, half-formed ideas, and content that is always growing.
   email: santiagowriter@gmail.com
   photo: /assets/img/profile.png
