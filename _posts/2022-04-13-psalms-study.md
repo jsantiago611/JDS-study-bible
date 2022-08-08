@@ -26,3 +26,5 @@ Here's a pathway that I'm recording to remember but also to share with all who w
    2. *Admit*: What does the psalm show me about my sin that I should confess and repent of? What false attitudes, behaviour, emotions, or idols come alive in me whenever I forget this truth?
    3. *Aspire*: What does the text show me about a need that I have? What do I need to do or become in light of this? How shall I petition God for it? What did I learn about life that I could aspire to, ask for, or act on?
 7. **Praying it:** Actually pray, using your meditation thoughts from step 6 as an "on-ramp."
+
+Psalm 1
