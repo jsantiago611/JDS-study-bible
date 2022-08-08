@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: About
+title: About these notes
 permalink: /about/
 content-type: eg
 ---
