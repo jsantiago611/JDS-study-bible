@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: About these notes
+title: About the JDS Study Bible
 permalink: /about/
 content-type: eg
 ---
