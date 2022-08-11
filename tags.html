@@ -4,9 +4,10 @@ title: Search this digital study bible
 permalink: /tags/
 content-type: eg
 ---
-### Search for a topic, scripture, or theme by typing below
 
-
+<script type="text/javascript" src="/assets/js/vendor/lunr.min.js"></script>
+<script src="/assets/js/Search.js"></script>
+<p>Search for a topic, scripture, or theme by typing below</p>
  <div class="searchbar search-container">
     {%- if site.preferences.search.shortcut_hint.enabled -%}
     <div class="search-shortcut disable-select">
@@ -21,10 +22,7 @@ content-type: eg
       </div>
     <div id="search-results" class="search-results"></div>
 </div>
-
-
-### Feeling adventurous? Discover new connections by choosing a tag below
-
+<p>Feeling adventurous? Discover new connections by choosing a tag below</p>
 <br>
 <div>
 {% for tag in site.tags %}
