@@ -2600,7 +2600,7 @@ a.button-block {
     margin-top: -15px;
     margin-left: 20px !important;
     margin-right: 30px;
-    font-family: "RandoDisplay";
+    font-family: var(--font-family-sans);
     font-size: 15px;
     overflow: hidden;
     margin-bottom: 5px;
