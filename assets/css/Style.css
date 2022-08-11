@@ -1558,13 +1558,13 @@ summary {
 }
 
 .site-heading-ltr > .main-page-tagline {
-    color: var(--c-accent);
+    color: var(--c-text);
     font-family: var(--font-family-sans);
     font-size: var(--font-size-medium);
     font-weight: 400;
     margin-left: 20px;
-    margin-top: -2px;
-    margin-bottom: 20px;
+    margin-top: 4px;
+    margin-bottom: 36px;
     font-style: italic;
     text-align: center;
 }
@@ -1586,7 +1586,7 @@ summary {
     font-family: var(--font-family-script);
     box-shadow: none;
     line-height: .9;
-    color: var(--c-accent);
+    color: var(--c-text);
     letter-spacing: var(--letter-spacing-tight);
     font-style: italic;
 }
@@ -1605,6 +1605,7 @@ summary {
 
 .site-heading-ltr a:hover {
 	    box-shadow: none;
+	color: var(--c-accent);
 }
 
 .site-heading-ltr a:active {
@@ -2286,9 +2287,6 @@ a.button-block {
     text-align: center;
     padding: var(--spacing-xs) var(--spacing-xs) calc(var(--spacing-xs) - 0.3125rem);
     border: 1px solid var(--c-card-border);
-    /* border-top: 2px solid transparent; */
-    /* border-right: 2px solid transparent; */
-    /* border-left: 2px solid transparent; */
 }
 
 @media(max-width: 500px) {
