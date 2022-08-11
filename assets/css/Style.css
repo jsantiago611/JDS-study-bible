@@ -556,9 +556,9 @@ html[data-theme="dark"] {
 
   /* Font family */
   --font-family-serif: "Dia", -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;  
-    --font-family-mono: "Rando", 'SFMono-Regular', 'Menlo', monospace;
-    --font-family-sans: "Rando", Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-    --header:  "Rando", Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    --font-family-mono: "oggtext", 'SFMono-Regular', 'Menlo', monospace;
+    --font-family-sans: "oggtext", Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    --header:  "oggtext", Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
   --font-family-base: var(--font-family-serif);
 	--font-family-script: "Salter", Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
@@ -727,6 +727,7 @@ main {
 	padding: 24px 0 5px;
 	color: var(--c-text-strong);
 	 font-family: var(--font-family-serif);
+	 font-style: uppercase;
 }
 
 @media(min-width: 300px)and (max-width: 1499px) {
