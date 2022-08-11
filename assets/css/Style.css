@@ -1558,12 +1558,15 @@ summary {
 }
 
 .site-heading-ltr > .main-page-tagline {
-    color: var(--secondary-text-color);
-    font-family:  var(--primary-font-family);
-    font-size: 0.7rem;
-    font-weight: 600;
+    color: var(--c-accent);
+    font-family: var(--font-family-sans);
+    font-size: var(--font-size-medium);
+    font-weight: 400;
     margin-left: 20px;
-    margin-top: -25px;
+    margin-top: -2px;
+    margin-bottom: 20px;
+    font-style: italic;
+    text-align: center;
 }
 
 
@@ -1579,25 +1582,24 @@ summary {
 .site-heading-ltr a {
     text-decoration: none;
     font-weight: 400;
-    font-size: 20px;
-    font-family: var(--header);
+    font-size: 40px;
+    font-family: var(--font-family-script);
     box-shadow: none;
     line-height: .9;
     color: var(--c-accent);
     letter-spacing: var(--letter-spacing-tight);
-    /*text-transform: uppercase;*/
     font-style: italic;
 }
 
 @media(min-width: 300px)and (max-width: 1069px) {
 	 .site-heading-ltr a {
-	font-size: calc(20px + (30 - 20) * ( 100vw - 300px) / (1070 - 300));
+	font-size: calc(40px + (80 - 40) * ( 100vw - 300px) / (1070 - 300));
 	}
 }
 
 @media(min-width: 1070px) {
 	 .site-heading-ltr a {
-		font-size: 30px
+		font-size: 80px
 	}
 }
 
