@@ -2790,7 +2790,8 @@ position: absolute;
     color: var(--c-text-link);
     text-decoration: none;
     font-weight: var(--font-weight-semibold);
-    font-family: var(--font-family-base);
+    font-family: var(--font-family-script);
+    font-style: italic;
 }
 
 .content a:hover {
