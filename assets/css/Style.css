@@ -2301,6 +2301,8 @@ a.button-block {
     color: var(--c-accent);
     font-size: .75rem;
     font-family:  var(--font-family-serif) !important;
+	text-transform: uppercase;
+	
 }
 
   .search-icon {
