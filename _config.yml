@@ -20,7 +20,7 @@
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jonsdiscipleshiplab.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://digital-garden-bible.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
 # Settings related to the Header and your About page go here,such as
@@ -28,15 +28,15 @@ url: "https://jonsdiscipleshiplab.netlify.app/" # the base hostname & protocol f
 # your social media links etc
 #######################################################################
 
-heading: THE JD STUDY BIBLE
-subheading: # subheading won't work without a tagline,
+heading: A Digital Garden Study Bible
+subheading:  # subheading won't work without a tagline,
           # tagline is mandatory if you want the
           # suheading to appear. The reason is
           # having a heading and a subheading looks
           # ridiculous.
   enabled: false
   name: test
-tagline: # subheading won't work without a tagline,
+tagline: Studying the Bible in Public # subheading won't work without a tagline,
          # tagline is mandatory if you want the
          # suheading to appear. The reason is
          # having a heading and a subheading looks
@@ -44,7 +44,7 @@ tagline: # subheading won't work without a tagline,
          # Although you can have the tagline without
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
-  enabled: false
+  enabled: true
   name:
 copyright:
   year: 2022
