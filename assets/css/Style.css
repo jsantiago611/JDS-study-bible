@@ -2298,8 +2298,8 @@ a.button-block {
 }
 
 ::placeholder {
-    color: var(--c-text-muted);
-    font-size: 1rem;
+    color: var(--c-accent);
+    font-size: .75rem;
     font-family:  var(--font-family-serif) !important;
 }
 
