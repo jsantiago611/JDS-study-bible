@@ -44,11 +44,11 @@ tagline: # subheading won't work without a tagline,
          # Although you can have the tagline without
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
-  enabled: true
+  enabled: false
   name: Welcome, fellow travellor. You have stumbled onto an online study bible based on digital gardening principles.
 copyright:
   year: 2022
-  msg: Jonathan D. # This is a mandatory attribute for copyright to be displayed
+  msg: Made in Alabama by Jonathan D. # This is a mandatory attribute for copyright to be displayed
 
 user:
   display: false # setting it to false will remove the header image and bio
