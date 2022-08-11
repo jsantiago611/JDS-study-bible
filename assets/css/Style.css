@@ -2564,26 +2564,27 @@ a.button-block {
     color: inherit;
     margin-left: 20px;
     margin-right: 50px;
-    font-family:  var(--font-family-serif);
+    font-family:  var(--font-family-script);
     font-weight: 500;
     letter-spacing: var(--letter-spacing-tight);
-    font-size: 30px;
+    font-size: 40px;
     line-height: 1;
     /*border-bottom: 1px solid var(--c-card-text);*/
     padding-bottom: 0;
     margin-bottom: 1.5rem;
 
     @media(min-width: 300px)and (max-width:1499px) {
-      font-size: calc(30px + (35 - 30) * ( 100vw - 300px) / ( 1500 - 300))
+      font-size: calc(40px + (55 - 40) * ( 100vw - 300px) / ( 1500 - 300))
     }
 
     @media(min-width: 1500px) {
-      font-size: 35px;
+      font-size: 55px;
     }
 }
 
 .feed-title:hover {
 	color: inherit;
+	font-style: italic;
 }
 
 .feed-excerpt{
