@@ -671,7 +671,6 @@ main {
   	/*padding-bottom: 1.3rem;*/
 	letter-spacing: var(--letter-spacing-tight);
  	font-variant-ligatures: discretionary-ligatures;
-	 font-style: italic;
 }
 
 @media(min-width: 300px)and (max-width: 1069px) {
@@ -2549,6 +2548,7 @@ a.button-block {
     background-color: var(--c-text-strong);
     transition: color .2s;
     color: var(--c-bg);
+	font-style: italic;
 }
 
 .srccode {
@@ -2584,7 +2584,6 @@ a.button-block {
 
 .feed-title:hover {
 	color: inherit;
-	font-style: italic;
 }
 
 .feed-excerpt{
@@ -2601,6 +2600,7 @@ a.button-block {
     line-height: 1.2;
     letter-spacing: var(--letter-spacing-tight);
     text-transform: uppercase;
+	font-style: normal !important;
 }
 
 .tags {
