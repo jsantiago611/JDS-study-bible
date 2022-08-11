@@ -28,7 +28,7 @@ url: "https://digital-garden-bible.netlify.app/" # the base hostname & protocol 
 # your social media links etc
 #######################################################################
 
-heading: Jonathan Santiago
+heading: Jonathan D.
 subheading:  # subheading won't work without a tagline,
           # tagline is mandatory if you want the
           # suheading to appear. The reason is
@@ -45,10 +45,10 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: An online study bible based on digital gardening principles.
+  name: Welcome, fellow travellor. You have stumbled onto an online study bible based on digital gardening principles. Explore below...
 copyright:
   year: 2022
-  msg: Jonathan Derek # This is a mandatory attribute for copyright to be displayed
+  msg: Jonathan D. # This is a mandatory attribute for copyright to be displayed
 
 user:
   display: false # setting it to false will remove the header image and bio
