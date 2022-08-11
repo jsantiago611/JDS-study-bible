@@ -1543,7 +1543,8 @@ summary {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-   margin-bottom: -1rem;
+    margin-bottom: -1rem;
+    margin-top: 1.5rem;
 }
 
 .site-heading-ltr > .main-page-heading {
