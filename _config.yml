@@ -45,7 +45,7 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: Welcome, fellow travellor. You have stumbled onto an online study bible based on digital gardening principles. Explore below...
+  name: Welcome, fellow travellor. You have stumbled onto an online study bible based on digital gardening principles.
 copyright:
   year: 2022
   msg: Jonathan D. # This is a mandatory attribute for copyright to be displayed
