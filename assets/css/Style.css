@@ -2548,10 +2548,10 @@ a.button-block {
 }
 
 .feed-title-excerpt-block:hover {
-    background-color: var(--c-text-strong);
+    background-color: var(--c-text-link);
     transition: color .2s;
     color: var(--c-bg);
-	font-style: italic;
+    font-style: italic;
 }
 
 .srccode {
