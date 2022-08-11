@@ -1858,27 +1858,28 @@ summary {
     transform: translateY(100px);
     transition: transform .5s ease 0s,visibility 0s linear .5s; */
 	
-    #theme-toggle {
-        opacity: 1;
+ #theme-toggle {
+    opacity: 1;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
     z-index: 75;
     transition: transform .5s ease 0s,visibility 0s linear .5s;
-    border: 3px solid var(--c-accent);
+    /* border: 1px solid var(--c-accent); */
     margin-top: 0px;
     margin-left: 5px;
     font-weight: 400;
     font-size: .75rem;
     font-family: var(--font-family-serif);
-    color: var(--c-bg);
+    color: var(--c-accent);
     margin-bottom: 0;
-    padding-top: 0.9375rem;
-    padding-right: 0.6875rem;
-    padding-bottom: 0.75rem;
-    padding-left: 0.6875rem;
-    background-color: var(--c-accent);
+    /* padding-top: 0.9375rem; */
+    /* padding-right: 0.6875rem; */
+    /* padding-bottom: 0.75rem; */
+    /* padding-left: 0.6875rem; */
+    /* background-color: var(--c-accent); */
+    text-transform: uppercase;
 }
 
 #theme-toggle-img {
