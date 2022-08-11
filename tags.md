@@ -6,7 +6,7 @@ content-type: eg
 ---
 ### Search for a topic, scripture, or theme by typing below
 
-<br>
+
  <div class="searchbar search-container">
     {%- if site.preferences.search.shortcut_hint.enabled -%}
     <div class="search-shortcut disable-select">
@@ -21,7 +21,7 @@ content-type: eg
       </div>
     <div id="search-results" class="search-results"></div>
 </div>
-<br/>
+
 
 ### Feeling adventurous? Discover new connections by choosing a tag below
 
