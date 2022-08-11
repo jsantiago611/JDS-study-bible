@@ -1554,7 +1554,7 @@ summary {
     margin-left: 20px;
     /*margin-bottom: 2rem;*/
     /*border-bottom: 1px solid var(--c-card-border);*/
-    padding-bottom: 0.2rem;
+    padding-bottom: calc(var(--spacing-sm) - 0.3125rem);
 }
 
 .site-heading-ltr > .main-page-tagline {
@@ -1582,7 +1582,7 @@ summary {
 .site-heading-ltr a {
     text-decoration: none;
     font-weight: 400;
-    font-size: 40px;
+    font-size: 45px;
     font-family: var(--font-family-script);
     box-shadow: none;
     line-height: .9;
@@ -1593,7 +1593,7 @@ summary {
 
 @media(min-width: 300px)and (max-width: 1069px) {
 	 .site-heading-ltr a {
-	font-size: calc(40px + (80 - 40) * ( 100vw - 300px) / (1070 - 300));
+	font-size: calc(45px + (80 - 45) * ( 100vw - 300px) / (1070 - 300));
 	}
 }
 
