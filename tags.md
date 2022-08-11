@@ -20,3 +20,18 @@ content-type: eg
 </div>
 <br/>
 <br/>
+
+ <div class="searchbar search-container">
+    {%- if site.preferences.search.shortcut_hint.enabled -%}
+    <div class="search-shortcut disable-select">
+        <kbd class="disable-select">Shift</kbd>
+        <kbd class="disable-select">s</kbd>
+    </div>
+    {%- endif -%}
+    <label for="search-input"></label>
+    <input type="text" id="search-input" autocomplete="off" placeholder="Search"/>
+    <div style="position: relative;">
+        <p class="search-icon"></p>
+      </div>
+    <div id="search-results" class="search-results"></div>
+</div>
