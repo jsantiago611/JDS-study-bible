@@ -533,7 +533,7 @@ html[data-theme="dark"] {
   /* Colors */
 
   /* Font size */
-  --font-size-small: .875rem;
+  --font-size-small: .75rem;
   --font-size-medium: 1.125rem;
   --font-size-large: 1.25rem;
   --font-size-xl: 1.75rem;
@@ -1753,7 +1753,7 @@ border-bottom: 1px solid var(--c-card-border);
     margin-top: 0px;
     margin-left: auto;
     font-weight: 400;
-    font-size: var(--font-size-small);
+    font-size: .75rem;
     font-family: var(--font-family-sans);
     color: var(--c-text-muted);
     margin-bottom: 0;
@@ -1866,11 +1866,14 @@ border-bottom: 1px solid var(--c-card-border);
     margin-top: 0px;
     margin-left: 5px;
     font-weight: 400;
-    font-size: var(--font-size-small);
+    font-size: .75rem;
     font-family: var(--font-family-serif);
     color: var(--c-bg);
     margin-bottom: 0;
-    padding: 7px 10px;
+    padding-top: 0.9375rem;
+    padding-right: 0.6875rem;
+    padding-bottom: 0.75rem;
+    padding-left: 0.6875rem;
     border-radius: 2000px;
     background-color: var(--c-accent);
 }
