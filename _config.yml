@@ -45,7 +45,7 @@ tagline: Studying the Bible in Public # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name:
+  name: test
 copyright:
   year: 2022
   msg: Jonathan Derek # This is a mandatory attribute for copyright to be displayed
