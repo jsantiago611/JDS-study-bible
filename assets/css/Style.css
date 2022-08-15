@@ -428,7 +428,7 @@ html, html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-	--c-bg: #1c1c1c;
+	--c-bg: #21403A;
 	--c-accent: #cfae70;
 	--c-text: #e0d5c0;
 	--c-text-muted: #998e85;
@@ -454,7 +454,7 @@ html[data-theme="dark"] {
 
 @media (prefers-color-scheme: dark) {
 	html, html[data-theme="dark"] {
-	--c-bg: #1c1c1c;
+	--c-bg: #21403A;
 	--c-accent: #cfae70;
 	--c-text: #e0d5c0;
 	--c-text-muted: #998e85;
