@@ -1588,7 +1588,6 @@ summary {
     line-height: .9;
     color: var(--c-text);
     letter-spacing: var(--letter-spacing-tight);
-    font-style: italic;
 }
 
 @media(min-width: 300px)and (max-width: 1069px) {
