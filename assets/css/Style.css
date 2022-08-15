@@ -2553,6 +2553,7 @@ a.button-block {
     color: var(--c-text-strong);
     margin-bottom: 1rem;
     /* background-color: var(--c-text-link);*/
+	border: 1px solid #5C736F;
 }
 
 .feed-title-excerpt-block:hover {
@@ -2614,7 +2615,6 @@ a.button-block {
     font-size: calc(16px + (21 - 16) * ( 100vw - 300px) / ( 1500 - 300));
     line-height: 1.2;
     letter-spacing: var(--letter-spacing-tight);
-    text-transform: uppercase;
 	font-style: normal !important;
 }
 
