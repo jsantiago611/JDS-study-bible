@@ -2546,20 +2546,24 @@ a.button-block {
 
 
 .feed-title-excerpt-block {
-    width: 100%;
+width: 100%;
     cursor: pointer;
     padding-bottom: 1rem;
     padding-top: 1rem;
     color: var(--c-text-strong);
-    border: 0.4rem solid var(--c-card-border);
     margin-bottom: 1rem;
+    background-color: var(--c-text-link);
 }
 
 .feed-title-excerpt-block:hover {
     background-color: var(--c-text-link);
-    transition: color .2s;
     color: var(--c-bg);
     font-style: italic;
+    transition: style 0.3s ease-out;
+    transition-property: style;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+    transition-delay: 0s;
 }
 
 .srccode {
