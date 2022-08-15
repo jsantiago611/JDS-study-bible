@@ -2285,7 +2285,7 @@ a.button-block {
     background-color: transparent;
     text-align: center;
     padding: var(--spacing-xs) var(--spacing-xs) calc(var(--spacing-xs) - 0.3125rem);
-    border-bottom: 1px solid var(--c-card-border);
+    border-bottom: 1px solid var(--c-border);
     border-top: 1px solid transparent;
     border-right: 1px solid transparent;
     border-left: 1px solid transparent;
@@ -2298,7 +2298,7 @@ a.button-block {
 }
 
 ::placeholder {
-    color: var(--c-accent);
+    color: var(--c-text);
     font-size: .75rem;
     font-family:  var(--font-family-serif) !important;
 	text-transform: uppercase;
@@ -2760,7 +2760,7 @@ position: absolute;
     list-style-type: none;
     margin-top: 0;
     padding-left: 0;
-    border-top: 1px dotted var(--c-card-border);
+    border-top: 1px dotted var(--c-border);
     width: 100%;
 }
 
@@ -2802,15 +2802,19 @@ position: absolute;
 }
 
 .content a {
-    color: var(--c-text-link);
+        color: var(--c-text-link);
     text-decoration: none;
     font-weight: var(--font-weight-semibold);
     font-family: var(--font-family-script);
     font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: var(--c-border);
+    transition: color 0.3s ease-out;
 }
 
 .content a:hover {
     text-decoration: none;
+    color: var(--c-border);
 }
 
 
