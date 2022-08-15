@@ -2545,14 +2545,14 @@ a.button-block {
 
 
 .feed-title-excerpt-block {
-        width: 100%;
+    width: 100%;
     cursor: pointer;
     padding-bottom: 1rem;
     padding-top: 1rem;
     color: var(--c-text-strong);
     margin-bottom: 1rem;
     /* background-color: var(--c-text-link);*/
-	border: 1px solid #5C736F;
+    border: 1px solid var(--c-border);
 }
 
 .feed-title-excerpt-block:hover {
@@ -2602,7 +2602,7 @@ a.button-block {
 }
 
 .feed-excerpt{
-    color: var(--c-border) !important;
+    color: #A1A6A2 !important;
     margin-top: -15px;
     margin-left: 20px !important;
     margin-right: 30px;
