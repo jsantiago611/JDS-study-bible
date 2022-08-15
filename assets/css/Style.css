@@ -675,13 +675,13 @@ main {
 
 @media(min-width: 300px)and (max-width: 1069px) {
 	 h1 {
-	font-size: calc(40px + (80 - 40) * ( 100vw - 300px) / (1070 - 300));
+	font-size: calc(40px + (130 - 40) * ( 100vw - 300px) / (1070 - 300));
 	}
 }
 
 @media(min-width: 1070px) {
 	 h1 {
-		font-size: 80px
+		font-size: 130px
 	}
 }
 
