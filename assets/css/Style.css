@@ -2551,8 +2551,8 @@ a.button-block {
     padding-bottom: 1rem;
     padding-top: 1rem;
     color: var(--c-text-strong);
-    /*border-radius: 1.25rem;*/
-    /*border-top: clamp(1rem, 0.4286rem + 1.0204vw, 1.5rem) solid var(--c-card-text-muted);*/
+    border: 0.4rem solid var(--c-card-border);
+    margin-bottom: 1rem;
 }
 
 .feed-title-excerpt-block:hover {
