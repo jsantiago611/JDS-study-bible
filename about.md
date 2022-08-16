@@ -1,11 +1,13 @@
 ---
 layout: Post
-title: About this digital study bible
+title: About
 permalink: /about/
 content-type: eg
 ---
 
-Welcome, fellow traveller. You have stumbled onto my online study bible. It is based on digital gardening principles[[A garden is something inbetween a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. They're inherently *exploratory* – posts are linked through contextual associations. They aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web.::rsn]]. 
+Welcome, fellow traveller. You have stumbled onto my digital study bible. 
+
+It is based on digital gardening principles[[A garden is something inbetween a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organised by their publication date. They're inherently *exploratory* – posts are linked through contextual associations. They aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web.::rsn]]. That means that I am constantly adding to it. 
 
 This space is meant to be an exploratory space where I [[learn in public::https://www.swyx.io/learn-in-public/]] about Christianity and the Bible.
 
@@ -34,5 +36,5 @@ Other Details:
 
 - The site lives on [[Github::https://github.com/rgvr/simply-jekyll]] and is served using Netlify
 - This website is statically generated using Jekyll from a set of Markdown files.
-  - The Jekyll theme can be found on my Github Page, It is called "Simply-Jekyll"
-- Except lunrjs and katex, there are no third party libraries. Discord is an opt-in, I don't use on my [[site::https://rgvr.me]]. I strongly believe in user privacy.
+- The Jekyll theme can be found on my Github Page, It is called "Simply-Jekyll"
+- Except lunrjs and katex, there are no third party libraries. I strongly believe in user privacy.
