@@ -2547,12 +2547,11 @@ a.button-block {
 .feed-title-excerpt-block {
     width: 100%;
     cursor: pointer;
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
     padding-top: 1rem;
     color: var(--c-text-strong);
     margin-bottom: 1rem;
-    /* background-color: var(--c-text-link);*/
-    border: 1px solid var(--c-border);
+    background-color: white;
 }
 
 .feed-title-excerpt-block:hover {
@@ -2579,21 +2578,22 @@ a.button-block {
     color: inherit;
     margin-left: 20px;
     margin-right: 50px;
-    font-family:  var(--font-family-script);
-    font-weight: 500;
+    font-family: var(--font-family-sans);
+    font-weight: 400;
     letter-spacing: var(--letter-spacing-tight);
-    font-size: 40px;
+    font-size: 25px;
     line-height: 1;
-    /*border-bottom: 1px solid var(--c-card-text);*/
     padding-bottom: 0;
     margin-bottom: 1.5rem;
+    text-decoration: underline;
+    text-decoration-color: var(--c-accent);
 
     @media(min-width: 300px)and (max-width:1499px) {
-      font-size: calc(40px + (75 - 40) * ( 100vw - 300px) / ( 1500 - 300))
+      font-size: calc(25px + (30 - 25) * ( 100vw - 300px) / ( 1500 - 300))
     }
 
     @media(min-width: 1500px) {
-      font-size: 75px;
+      font-size: 30px;
     }
 }
 
@@ -2610,11 +2610,11 @@ a.button-block {
     font-size: 15px;
     overflow: hidden;
     margin-bottom: 5px;
-    font-weight: 400;
+    font-weight: 300;
     font-size: calc(16px + (21 - 16) * ( 100vw - 300px) / ( 1500 - 300));
     line-height: 1.2;
     letter-spacing: var(--letter-spacing-tight);
-	font-style: normal !important;
+    font-style: normal !important;
 }
 
 .tags {
@@ -2710,10 +2710,10 @@ position: absolute;
 }
 
 .status {
-    color: var(--c-card);
+    color: var(--c-accent);
     text-decoration: none;
     display: inline-block;
-    padding: 0px 10px !important;
+    padding: 5px 10px !important;
     height: auto;
     vertical-align: middle;
     font-family: var(--font-family-sans);
@@ -2721,9 +2721,9 @@ position: absolute;
     font-size: var(--font-size-small);
     margin-bottom: 0;
     line-height: 1.5rem !important;
-    text-transform: uppercase;
-    background-color: var(--c-topper-split-bg);
-	border-radius: 0 !important;
+    background-color: var(--c-text);
+    border-radius: 0 !important;
+    font-style: italic;
 }
 
 .status {
