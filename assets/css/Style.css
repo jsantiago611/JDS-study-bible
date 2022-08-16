@@ -2557,7 +2557,7 @@ a.button-block {
 .feed-title-excerpt-block:hover {
     /* background-color: var(--c-text-link); */
     /* color: var(--c-bg); */
-    font-style: italic;
+    /*font-style: italic;*/
     transition: style 0.3s ease-out;
     transition-property: style;
     transition-duration: 0.3s;
@@ -2578,7 +2578,7 @@ a.button-block {
     color: inherit;
     margin-left: 20px;
     margin-right: 50px;
-    font-family: var(--font-family-sans);
+    font-family: randodisplay;
     font-weight: 400;
     letter-spacing: var(--letter-spacing-tight);
     font-size: 25px;
@@ -2587,6 +2587,7 @@ a.button-block {
     margin-bottom: 1.5rem;
     text-decoration: underline;
     text-decoration-color: var(--c-accent);
+    text-transform: uppercase;
 
     @media(min-width: 300px)and (max-width:1499px) {
       font-size: calc(25px + (30 - 25) * ( 100vw - 300px) / ( 1500 - 300))
@@ -2614,7 +2615,6 @@ a.button-block {
     font-size: calc(16px + (21 - 16) * ( 100vw - 300px) / ( 1500 - 300));
     line-height: 1.2;
     letter-spacing: var(--letter-spacing-tight);
-    font-style: italic !important;
 }
 
 .tags {
