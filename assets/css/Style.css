@@ -2614,7 +2614,7 @@ a.button-block {
     font-size: calc(16px + (21 - 16) * ( 100vw - 300px) / ( 1500 - 300));
     line-height: 1.2;
     letter-spacing: var(--letter-spacing-tight);
-    font-style: normal !important;
+    font-style: italic !important;
 }
 
 .tags {
