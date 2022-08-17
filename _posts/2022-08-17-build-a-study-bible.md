@@ -34,7 +34,9 @@ Here are the same chapters, but divided into notes based on their ideas as prese
 -	Note#8: Futility of being a workaholic (2:18-21)
 -	Note#9: Painful Days and restless nights (2:22-23)
 -	Note#10: Enjoy Work and its Benefits (2:22-23)
+
 So splitting the chapter by idea clearly seem to be the more interesting & linkable idea. I can see how this would allow me to link a chapter to another idea. The only thing I might change would be how the NET bible writes some of these headings, so that they read more like affirmations instead of themes:
+
 -	Note#1: Utter Futility (1:1-2)
 -	Note#2: Nature Illustrates Futility (1:3-11)
 -	Note#3: Secular Accomplishments are Futile (1:12-15)
