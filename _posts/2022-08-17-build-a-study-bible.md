@@ -17,9 +17,13 @@ There are 2 types of notes:
 
 The main idea behind this digital bible is to mimic the function of a study and journaling bible, but without the space limitations of a physical bible. So, I want to be able to look at a bible text, record notes in the margins, and see links to other notes and passages. 
 My main job at the moment is importing the biblical text in its entirety. 
+
 But how will I do that? Will each book be its own note? Or will each chapter be its own note? Or perhaps I should break up the text based on ideas and outlines rather than chapters? 
+
 Hmm. 
+
 I guess if I want to stick to the principle of Notes should be atomic, then that should extend to the scripture notes as well. So I could just create a note for each biblical unit, instead of each chapter. I can see how this would lead to greater linkability. 
+
 But how would that look? Maybe visualizing it will help me decide. 
 
 Here’s a chapter division of Ecclesiastes: 
