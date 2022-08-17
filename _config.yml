@@ -20,7 +20,7 @@
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://digital-garden-bible.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://linkbible.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
 # Settings related to the Header and your About page go here,such as
@@ -28,7 +28,7 @@ url: "https://digital-garden-bible.netlify.app/" # the base hostname & protocol 
 # your social media links etc
 #######################################################################
 
-heading: Jon's Bible
+heading: LinkBible
 subheading:  # subheading won't work without a tagline,
           # tagline is mandatory if you want the
           # suheading to appear. The reason is
